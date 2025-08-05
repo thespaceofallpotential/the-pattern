@@ -9,6 +9,10 @@ For example:-
 
 2. if we approach the unification of *(all domains of)* knowldege by deduplicative-reformation *(set-theoretic intersection)*, like refactoring legacy software-code around a well-formed core, the result will be a radically simplified understanding of the universe
 
+3. ...
+
+#tbc
+
 > *(this is a few years old now, and ought to be updated...)*
 
 ![](images/the%20pattern.png)
